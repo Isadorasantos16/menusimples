@@ -11,3 +11,7 @@ a{
     color: brown;
     text-decoration: none;
 }
+
+a:hover {
+    background-color: rgb(184, 125, 125);
+}
